@@ -1,1 +1,1 @@
-# rickroll-gqcode
+# rickroll-qrcode
